@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>128582644850-ghgs1hvb7d0las0vu2kng9u9ioqq159s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.128582644850-ghgs1hvb7d0las0vu2kng9u9ioqq159s</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>128582644850-ebtethau008kse5bnkuk9p3lmpsta1hf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBuWBJJXuDHjoeUe4zEj-pkQN1YnJcdRdU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>128582644850</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>be.vlaamsbelang.vrijheidsfondsdev</string>
+	<key>PROJECT_ID</key>
+	<string>vlaams-belang-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vlaams-belang-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:128582644850:ios:34cc66af57ad748ae2feeb</string>
+</dict>
+</plist>
